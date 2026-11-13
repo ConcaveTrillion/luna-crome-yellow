@@ -5,3 +5,9 @@
 blockquote[xml|lang]{
 	font-style: italic;
 }
+
+/* Begin letters */
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+/* End letters */
